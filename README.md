@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @UmarFarukA
-- 👀 I’m interested in Web dev't and machine learning
-- 🌱 I’m currently learning C, React and Machine learning
+- 👋 Hi, I’m @UmarFarukA, an ALX-Software Engineering Graduate (cohort 9)
+- 👀 I'm a full-stack developer
 - 💞️ I’m looking to collaborate on software dev't
 - 📫 How to reach me: talk2ufaz@gmail.com
 
